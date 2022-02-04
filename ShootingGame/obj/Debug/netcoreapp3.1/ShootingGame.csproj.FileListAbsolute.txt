@@ -1,0 +1,15 @@
+D:\C#\GitHub\ShootingGame\ShootingGame\obj\Debug\netcoreapp3.1\ShootingGame.csprojAssemblyReference.cache
+D:\C#\GitHub\ShootingGame\ShootingGame\obj\Debug\netcoreapp3.1\ShootingGame.Form1.resources
+D:\C#\GitHub\ShootingGame\ShootingGame\obj\Debug\netcoreapp3.1\ShootingGame.csproj.GenerateResource.cache
+D:\C#\GitHub\ShootingGame\ShootingGame\obj\Debug\netcoreapp3.1\ShootingGame.AssemblyInfoInputs.cache
+D:\C#\GitHub\ShootingGame\ShootingGame\obj\Debug\netcoreapp3.1\ShootingGame.AssemblyInfo.cs
+D:\C#\GitHub\ShootingGame\ShootingGame\obj\Debug\netcoreapp3.1\ShootingGame.csproj.CoreCompileInputs.cache
+D:\C#\GitHub\ShootingGame\ShootingGame\bin\Debug\netcoreapp3.1\ShootingGame.exe
+D:\C#\GitHub\ShootingGame\ShootingGame\bin\Debug\netcoreapp3.1\ShootingGame.deps.json
+D:\C#\GitHub\ShootingGame\ShootingGame\bin\Debug\netcoreapp3.1\ShootingGame.runtimeconfig.json
+D:\C#\GitHub\ShootingGame\ShootingGame\bin\Debug\netcoreapp3.1\ShootingGame.runtimeconfig.dev.json
+D:\C#\GitHub\ShootingGame\ShootingGame\bin\Debug\netcoreapp3.1\ShootingGame.dll
+D:\C#\GitHub\ShootingGame\ShootingGame\bin\Debug\netcoreapp3.1\ShootingGame.pdb
+D:\C#\GitHub\ShootingGame\ShootingGame\obj\Debug\netcoreapp3.1\ShootingGame.dll
+D:\C#\GitHub\ShootingGame\ShootingGame\obj\Debug\netcoreapp3.1\ShootingGame.pdb
+D:\C#\GitHub\ShootingGame\ShootingGame\obj\Debug\netcoreapp3.1\ShootingGame.genruntimeconfig.cache
